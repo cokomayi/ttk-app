@@ -1,17 +1,16 @@
 {
-  "version": "1.3.3",
-  "minShell": "1.3.3",
+  "version": "1.3.4",
+  "minShell": "1.3.4",
   "date": "2026-11-08",
   "notes": [
-    "Haberler artık uygulamanın içinde açılıyor",
-    "Haber sayfasında yazı büyütme, geri ve yenile düğmeleri",
-    "Haber sitelerindeki reklamların çoğu engelleniyor"
+    "Güncelleme artık tamamen uygulamanın içinden yapılıyor",
+    "Haberler uygulamanın içinde açılıyor"
   ],
-  "sha256": "c280133eca72d291398ad7eae00e68498f2f75728cd89bca553717dbeaabbb9a",
-  "size": 2528500,
+  "sha256": "7701a2a1da6d6be3c6053078e001a3ff608771f4cabeeae1e85b0f47068caf1a",
+  "size": 2529436,
   "urls": [
-    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.3.pak",
-    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.3.pak"
+    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.4.pak",
+    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.4.pak"
   ],
   "page": "https://github.com/cokomayi/ttk-app"
 }
