@@ -1,18 +1,17 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "minShell": "1.3.5",
   "date": "2026-11-18",
   "notes": [
-    "Uygulama çok daha hızlı: boştayken işlemci kullanımı yaklaşık 10'da 1'e indi",
-    "Yeni sekme: Personel (arama, ekleme, düzenleme, silme)",
-    "Yeni sekme: Lojmanlar (görev ve sıra tahsisli konutlar, dolu/boş özeti)",
-    "Bildirimler artık her sekmede görünüyor"
+    "Açık tema: Ayarlar ▸ Tema rengi ▸ Görünüm'den ya da başlıktaki güneş/ay düğmesinden",
+    "\"Bilgisayarla aynı\" seçilirse bilgisayar koyu/açık temaya geçince uygulama da geçer",
+    "Radyo sayfası temayı artık hemen alıyor"
   ],
-  "sha256": "7681a9b9a257706082389f69f8af83fe27d2371ff8c37e7ea3f386f7a585367f",
-  "size": 2604750,
+  "sha256": "a32b14c21b2ebd72917f68251f1efc31d63f1fc763a24ddc75a1c2e1de8af17e",
+  "size": 2609378,
   "urls": [
-    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.5.pak",
-    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.5.pak"
+    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.6.pak",
+    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.6.pak"
   ],
   "page": "https://github.com/cokomayi/ttk-app"
 }
