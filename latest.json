@@ -1,16 +1,18 @@
 {
-  "version": "1.3.4",
-  "minShell": "1.3.4",
-  "date": "2026-11-08",
+  "version": "1.3.5",
+  "minShell": "1.3.5",
+  "date": "2026-11-18",
   "notes": [
-    "Güncelleme artık tamamen uygulamanın içinden yapılıyor",
-    "Haberler uygulamanın içinde açılıyor"
+    "Uygulama çok daha hızlı: boştayken işlemci kullanımı yaklaşık 10'da 1'e indi",
+    "Yeni sekme: Personel (arama, ekleme, düzenleme, silme)",
+    "Yeni sekme: Lojmanlar (görev ve sıra tahsisli konutlar, dolu/boş özeti)",
+    "Bildirimler artık her sekmede görünüyor"
   ],
-  "sha256": "7701a2a1da6d6be3c6053078e001a3ff608771f4cabeeae1e85b0f47068caf1a",
-  "size": 2529436,
+  "sha256": "7681a9b9a257706082389f69f8af83fe27d2371ff8c37e7ea3f386f7a585367f",
+  "size": 2604750,
   "urls": [
-    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.4.pak",
-    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.4.pak"
+    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.5.pak",
+    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.5.pak"
   ],
   "page": "https://github.com/cokomayi/ttk-app"
 }
