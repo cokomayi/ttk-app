@@ -1,16 +1,16 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "minShell": "1.3.5",
   "date": "2026-11-27",
   "notes": [
-    "Rehberde bir işyeri seçiliyken aranan kişi başka işyerindeyse artık o da gösteriliyor",
-    "\"Tüm rehberde ara\" düğmesi"
+    "TV: \"Sadece çekenler\" anahtarı düzgün görünüyor; açıkken çekmeyen kanallar tarama sırasında da listeden düşüyor",
+    "Açık temada TV karşılama yazısı okunuyor"
   ],
-  "sha256": "058716ccfd094b70950d7f4dec6afbfa9f1fd065f576b250c7fba66278932a02",
-  "size": 2610108,
+  "sha256": "7e58b4e7b3a1e6bf20910a86f9be6a018642434f96f587fa866bee14199e21fe",
+  "size": 2610764,
   "urls": [
-    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.7.pak",
-    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.7.pak"
+    "https://raw.githubusercontent.com/cokomayi/ttk-app/main/paketler/ttk-icerik-1.3.8.pak",
+    "https://cdn.jsdelivr.net/gh/cokomayi/ttk-app@main/paketler/ttk-icerik-1.3.8.pak"
   ],
   "page": "https://github.com/cokomayi/ttk-app"
 }
